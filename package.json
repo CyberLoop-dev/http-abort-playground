@@ -1,0 +1,12 @@
+{
+  "name": "http-abort-playground",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A local AbortController simulator for request cancellation, timeouts, and completed responses.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
